@@ -1,13 +1,29 @@
-# SortPulse — Sorting Algorithms Visualizer & Benchmarking Arena
+<div align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js-14.2.15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+# ⚡ SortPulse — Sorting Algorithms Visualizer
 
-> **Live Application**: [https://ibo159-sys.github.io/Sorting-algorithms-visualization/](https://ibo159-sys.github.io/Sorting-algorithms-visualization/)  
-> **GitHub Repository**: [https://github.com/ibo159-sys/Sorting-algorithms-visualization](https://github.com/ibo159-sys/Sorting-algorithms-visualization)
+**An interactive data structures and algorithms visualization platform with real-time benchmarking, audio synthesis, and complexity analytics.**
+
+<br />
+
+[![Live Demo](https://img.shields.io/badge/🚀_LAUNCH_LIVE_DEMO-00D26A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a)](https://ibo159-sys.github.io/Sorting-algorithms-visualization/)
+[![GitHub Repo](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibo159-sys/Sorting-algorithms-visualization)
+
+<br />
+
+[![Next.js](https://img.shields.io/badge/Next.js-14.2.15-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+</div>
+
+---
+
+> ### 🌐 **Live Interactive Application**
+> #### 👉 **[https://ibo159-sys.github.io/Sorting-algorithms-visualization/](https://ibo159-sys.github.io/Sorting-algorithms-visualization/)** 👈
+> *Experience interactive sorting step execution, concurrent multi-algorithm races, and Web Audio synthesis directly in your browser — zero installation required.*
 
 ---
 
@@ -41,6 +57,15 @@
 The project was originally developed **one year ago** as a client-side prototype using **Vanilla HTML5, CSS3, and JavaScript**. While functional, the original implementation relied on global state and `setTimeout` loops, which made pausing, single-stepping, and synchronized multi-algorithm benchmarking difficult to coordinate.
 
 To elevate code quality, modularity, and responsiveness, the application was completely re-architected and upgraded into **Next.js 14 with TypeScript and React 18**. The core algorithmic engine was refactored into **ES6 Generator Pipelines (`function*`)**, enabling deterministic animation stepping, instantaneous pause/resume, auditory feedback via the **Web Audio API**, and synchronized side-by-side race comparisons.
+
+---
+
+## 🚀 Live Demo & Quick Access
+
+| Resource | URL |
+| :--- | :--- |
+| 🌐 **Live Web Application** | **[https://ibo159-sys.github.io/Sorting-algorithms-visualization/](https://ibo159-sys.github.io/Sorting-algorithms-visualization/)** |
+| 📁 **GitHub Source Code** | **[https://github.com/ibo159-sys/Sorting-algorithms-visualization](https://github.com/ibo159-sys/Sorting-algorithms-visualization)** |
 
 ---
 
